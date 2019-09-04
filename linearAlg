@@ -1,0 +1,26 @@
+Linear Algebra
+1. (10 points) Find the 2D transformation matrix for a translation by (tx, ty), followed by a counterclockwise rotation by degree , and followed by a scaling with the scaling factor (sx, sy). Verify that the
+SRT matrix you found is different from the TRS (scaling + rotation + translation) matrix in the lecture
+slide.
+
+
+
+2. (10 points) Let the SVD of a matrix A is . Show that the eigenvectors of AAT
+are the columns of ,and the square root of eigenvalues are the singular values (i.e. the diagonal entries of ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   8i
